@@ -1,1 +1,3 @@
 # First-My
+
+## project notes
